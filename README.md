@@ -1,6 +1,7 @@
 
 Asciinema
 https://asciinema.org/a/oNPkA9j6WGa0zchPVNgK7DMgx
+![Screenshot_1](https://github.com/user-attachments/assets/a9832718-5c2a-4963-99c3-87fade36eeeb)
 
 Preguntas 
 Fundamentos de Erlang
